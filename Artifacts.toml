@@ -1,61 +1,61 @@
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "7470a7376b7f4ed1d144b7670aa4ea74f744dc20"
+git-tree-sha1 = "afd0bd7bc261f8537457a89ffdf8a905c4e9af72"
 os = "freebsd"
 
     [[MPICH.download]]
-    sha256 = "ccac130e2dcfe1083f07d1f29b8645a22577e442862332d3e6990919b78ea01f"
+    sha256 = "32b21df83ffccb186c52382c9e1173cf5deabff805fdb14a09c7610a1b827b85"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.x86_64-unknown-freebsd11.1.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "9ab942d1119242997fb93384afea9d82be5cd81d"
+git-tree-sha1 = "2aa71d0308783918119d1c9d7481a4504c1020a6"
 libc = "glibc"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "52ee5b534cf3b6b47d07c6474667b6a589da8109a00766737cdcc209010a4084"
+    sha256 = "c59ad04964485185c82f26b31327999fa581f6ea75eeacfb5bee05acba4fc163"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.i686-linux-gnu.tar.gz"
 [[MPICH]]
 arch = "armv7l"
-git-tree-sha1 = "771c5f033f145e1b96c3c041956a981ffaf3ae2c"
+git-tree-sha1 = "792f828e6bec1b113400d3aeb100b51685efbcc8"
 libc = "glibc"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "901a95b1cfb0d065761fff7966a5c007a669909be6cc26f36825fdfd66a955df"
+    sha256 = "a3f0a5dee8d01df3326dd2625128ad4d9a82b95f9f207944ca5dd34df90b784b"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.arm-linux-gnueabihf.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "d443aeac9ca418b9ed34e1bda3215a687d6e4fe5"
+git-tree-sha1 = "9f3681878bd7cd1e9c1d19f8a7516e1f52743d7c"
 os = "macos"
 
     [[MPICH.download]]
-    sha256 = "717aacbad36c137f0ef42f3421a3fbb9803135b6b956fe805a00fc423da25cbe"
+    sha256 = "4fef43f99c55f875f63d685c5c51b2f9ba132a796a4d5edf379b52d5dc83bfa6"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.x86_64-apple-darwin14.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "d4ad68aa3d42fc44ac129ddefd00e95153220964"
+git-tree-sha1 = "51b9d7eaf5227a5268a8e3e4e58eb15ac20afa15"
 libc = "glibc"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "a7017b9e22bb1a0418c1923c44566a2ec2642aa67e9b6e5379800521d965d552"
+    sha256 = "7324434a6575fa9f2abb36b9e1725fc14166d65098a2530b54250ab7c202e260"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.x86_64-linux-gnu.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "6a38543d8248543fa43b66b349c11ac4a01ec616"
+git-tree-sha1 = "73f72fa6974926e2daee27bec0071e5d12d2a095"
 libc = "glibc"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "d11ed37b498acfa2e0a931f9aea215c43224308aa49a18696314bd82b4facfc7"
+    sha256 = "ff7e9164ea2d6da1dc69ac5178bd9113735bb4b88e842a89f9f48157c753733a"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.aarch64-linux-gnu.tar.gz"
 [[MPICH]]
 arch = "powerpc64le"
-git-tree-sha1 = "680a1cd7ea6a418e1e7e039a3d4ea597787c92d8"
+git-tree-sha1 = "a0b0847c26bed74d680f7a90fd470344186e4c4b"
 libc = "glibc"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "545a115fdd88283c8b26fcef47085ec48b1ad3d2337b3387368935b7a63ce72d"
+    sha256 = "0cbff83a10306ef4a7cec837cd7eb7e8cd928fc37f503add4832fc4202d5ad41"
     url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v3.3.2+2/MPICH.v3.3.2.powerpc64le-linux-gnu.tar.gz"
