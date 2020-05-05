@@ -67,7 +67,7 @@ function mpiexec(f::Function; adjust_PATH::Bool = true, adjust_LIBPATH::Bool = t
         end
     end
     if adjust_LIBPATH
-        if !isempty(get(ENV, LIBPATH_env, ""))
+        if !isempty(get(ENV, LIBPATH_env, expanduser("~/lib:/usr/local/lib:/lib:/usr/lib")))
             env_mapping[LIBPATH_env] = string(LIBPATH, ':', ENV[LIBPATH_env])
         else
             env_mapping[LIBPATH_env] = LIBPATH
