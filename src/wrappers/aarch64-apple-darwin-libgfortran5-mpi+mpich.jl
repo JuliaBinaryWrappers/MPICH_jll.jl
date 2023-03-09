@@ -2,6 +2,7 @@
 export libmpi, libmpicxx, libmpifort, mpiexec
 
 using CompilerSupportLibraries_jll
+using MPIPreferences
 JLLWrappers.@generate_wrapper_header("MPICH")
 JLLWrappers.@declare_library_product(libmpi, "@rpath/libmpi.12.dylib")
 JLLWrappers.@declare_library_product(libmpicxx, "@rpath/libmpicxx.12.dylib")
