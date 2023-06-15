@@ -1,17 +1,17 @@
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "abb7cbd1c6369f566bf0334f8e033f35b639d0e6"
+git-tree-sha1 = "f99c980548677ee7ea55b4fb5a14c9036e7ce0b6"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MPICH.download]]
-    sha256 = "c50e11530c5f6e219961ef3413f0558a16616633223213838da381b937a12c1f"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "50d594a0674b1138a4dc245ba85d94e910b778e0d2c22cc771dd831dc9348c6c"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "51af249630c2212322101bd37c65c34cd0238f16"
+git-tree-sha1 = "475f753e8852755057089f27fac1b41fea6b18f3"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -19,11 +19,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "f807a3fcbd4c4077cd0765464efeaf1fdef0bcce1276ea6164fa7a35fda6e13a"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "19441a0e1f513eb4930f3897ebbe5b6adc58c389218e4597a606c5d774e286fa"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "7f2148f6cca5ef4cd3b5e9d8cd29498d42f34384"
+git-tree-sha1 = "a70e3bc60ac16fbc3a5f9156e26f090d23b6d2ab"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -31,11 +31,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "0d6494473d70ffe9e2694bc163e964f5e73b606f178560f7d7d3c1e75c140472"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "7363149b45d2b84ee914a4a6989a9eafd713180887fe9c412836000bbfe1f05d"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "7ae5c9d24e24ec7426a64d92aab0947b144ec872"
+git-tree-sha1 = "f2b684fef72abc3d1330d3f504e7a88b66e4c3c9"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -43,11 +43,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "08d99e541b53b4dd51543a462d86cc80170317b6006c0941cc319e9d8a999ecc"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "6d285efd1476ea31abbce7f0552226127872858ff25516c172461807a625b7cb"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "35efb69fe4f23bebefbf9d995fa11ae2c3c630aa"
+git-tree-sha1 = "c3753e2e15a2fb1240405da69c50af47b0d518ef"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -55,11 +55,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "f12ebfe3498d0e8c2686c4f6da4e73c99fddb51cf7424489bfa3e85d39edafb4"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "b3579665726d9ba629e93ede8e0d8a0f8f65fb7969272026b6300e3de25368d6"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "84d8c57e4dc2a244172d29aa07735c509aa1f4fa"
+git-tree-sha1 = "4f59d3acb68b083928b2bb0a759fbdc73d3a0f40"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -67,11 +67,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "0e799d455bb4eecf42aa7234649e28475b20885d769f4f0ef704c68a1e79bfb8"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "7886f1a0b2bb10800482077a73f2745f2afe3e2377682a34ebec4cd5333956f6"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
-git-tree-sha1 = "35534641b80b2891027d2396052b22f6c0bc3cb6"
+git-tree-sha1 = "e809e46f449069fafbb2844995e1360038bfe5ae"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -79,12 +79,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "2c1f22efc270cbb9e96100278daaed3819e7d8f209c6693a559b69c14f660691"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "f0f922e0625be211d88073cad624443dca195ff854481c313df3edc481e19d55"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "fc705641232f13d26711896f39642ec5c0a56a47"
+git-tree-sha1 = "26c9887c50573b5f0ad355c1d05f2726e91859b1"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -92,12 +92,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "b2b7532014555401dec282c6e1cb257766f3114ca31daa7bd35f4e5295bf7fdb"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv6l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "86ab0fed9d013553249d5506b134df943cfe489a0d8a875e91c813039673b656"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv6l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "de307cc08ab5dfbd16b7c18a48e72e6b5c43ad07"
+git-tree-sha1 = "0f6cfbe7e4b23452a3f9f4fbc231881d1c175d3c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -105,12 +105,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "557e6670eef52d026cd86b23b80ac54c737d92bf7e75a495d914a1d7eaa497d5"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv6l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "444c06ece18a007765de7d8ceb79a107bd9bc6eb852c18ca0946b3d2d8693834"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv6l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "88f741dd926ab15915d658d2ec33ef4fc3d3917e"
+git-tree-sha1 = "bfc784e0587554d0bcaecb75e0ce34d48f208578"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -118,12 +118,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "2adcb95f74c2eb163b164b06ec71fe79fa4239fa6c0fc5a585c3b6301ac201ba"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "5d5237ef23679779a7021abd33bc7e606f1059fd9b9c57edf33e89c83bb59f85"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "4c279f2e6f7e4da47b6ba940bf141d2db222d2f4"
+git-tree-sha1 = "df062ce24cb59eeb0d4f4290dfd6ae80bedde737"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -131,12 +131,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "2df9f010a7c167bc7ee8f9b47cf82a8138d4957e07fd32ec418ce49eb9719fbc"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv6l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "331eaf50d9770289194f8210072af9ddf8b266c6d490f7d1f9d2488505314f2f"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv6l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "310d5428db3c51b9fa524443f4b872e1f4138457"
+git-tree-sha1 = "c24a21e67b8c8baca1311d6cbc26deb64776c111"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -144,12 +144,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "c990111b9da091b0b15d15f819e5110d5c7d95f8fc493f824bba58467261576e"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv6l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "daf344eca8bde03134dfc64b2e8656f892bcb34392c51776503f822b51242e2f"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv6l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5424dd45f01255da84f41ebc2a293f1de0dca135"
+git-tree-sha1 = "9f957229885a7626530cf8e349b478e22fd34d6c"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -157,12 +157,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "49f0a35f7ecea72702d0d7e2e07a84a36dcaed1f27b6410cff4cbd2112e56bc5"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "d762dc1741050405da741855ce90e8b0bb0850fcea06953e59162936c0e6fbce"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "7a15f906b403f73d3d6fd73f8f4c02d983dcf867"
+git-tree-sha1 = "c41995fa5e542ada51f4a655ee7d7733ac6800fc"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -170,12 +170,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "c356f16ad866d0775bf6207f5f3593655aff5da09c3d1c3f073cf90aa78d707b"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv7l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "9a01c9cbe46ae54c155d9877c13457e6cb51cca38ae2a2c9d92c14b4a15846c2"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv7l-linux-gnueabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "a93ce7fe398877fa0d8715c1b0345c347d0f7889"
+git-tree-sha1 = "94da750907ca0c937a199d1aca4b424197cc19a4"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -183,12 +183,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "85a63e21e599ab9e577d3c3789f69803ce81b9157e594cfea0f863aababc7bb9"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv7l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "6cf4f1e97a860759fa0544c5126c352f6368e1e6ce63f43fe6888639ac65953e"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv7l-linux-gnueabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8fe3e14685002c3bac7fd06fee433511d4ea9511"
+git-tree-sha1 = "cb1db6fd205e0dd0f81841a1f41657c69bca1ad9"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -196,12 +196,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "a782ed123b2bd869fe252a0598780b55ecdf2f6c75f059b9bd8429c98bc60bec"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "846d44b20d8a31fec8b157831200108e291002825f0cbddae9d52dbba2517726"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4ec4df113c2b112a1e6cabea8bd916e33f4947fa"
+git-tree-sha1 = "797deb6d4317acddff0be381884e3ab17618f3aa"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -209,12 +209,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "53e8b6ef8b55244e47db30e5a0357def8e9a96a42e1a594e58fbec57372d7c6f"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv7l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "f9ae28385233438518b3c8de9d5f7bceedf88eaf554ffdad0cba0914f160a808"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv7l-linux-musleabihf-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "21b858321c27a8bebb557ce7e0ce30bd5a557516"
+git-tree-sha1 = "f4d6f634cba2228c33baa9089333bebf6de26285"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -222,12 +222,12 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "9d83063eeff163fb2c7d2d2acc97c1ea1fdf840699a18c21a35af7be49166bbb"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv7l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "3f8f84e22368b089fa25d24010f7b3c1bc3931a80b6b3a1a2f26a9bd801fa559"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv7l-linux-musleabihf-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "77cfc844380824918efb1902d725bf41a8d7761c"
+git-tree-sha1 = "fa90602e87734a06454aedf7d54ec6780bc8a789"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -235,11 +235,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "4fe74ed5a99e83676d728f0b652e725830db90862e845d49a61df0c890e09e6c"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "5bfaef082dc87019741084ff35be08862c578fe567e944bc0de39aaa63d04453"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "13f2e10a6e3e130a7270aa33379856e6d3627e55"
+git-tree-sha1 = "a8b6f9d7ac6dee60cf3ef45069b699c8813eed5d"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -247,11 +247,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "16c88c6ef13283724a9925f77acbfd0cac68545d5b2036857c73ca70c1e4a106"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "6bc3746d39d8810a2ac076cc375e99bdcbdd70aaec7e1529349a50f851fecc67"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.i686-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "95679b013608923fc0d034392941ccfcbd58b7fe"
+git-tree-sha1 = "ef257df7432eec2d4b4e1db3ed1cc57f77916576"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -259,11 +259,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "81de580ee8d742af100bb1b512a43edc004ca38d966cdc902a17568ec5789abe"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "ac8efc28cab538ad307b54ca335b8b2325870ab37391fb9e65943e87d7c12e76"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.i686-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "78778fbd589d3478138606ce6af308cefb4959c7"
+git-tree-sha1 = "543bdd9ee3a536fd6833772e89e96ebe45985e06"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -271,11 +271,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "06ccd2e20740e9edad6a7d043de1ed105dfca33ea0f244332eccba617d00f63c"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "5aed79ba68bf5bb6e7630819b3d3f6dbc05fd610b3778860af66d71cc8878e05"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "cb233eea5b1305bb029f76b6b29b76aace05c3dc"
+git-tree-sha1 = "a0abce42c52488db5756b629d7e85acfc7f0b326"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -283,11 +283,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "769a01a03ab278c1d2a937240021f739352560a7e9593a52e5a311302c2bb117"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "5550a25422f74ad81b3a2478ef9ab8a14e8d2ebc922aae9549be5ce4f56ae7f0"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.i686-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "d1a4992f2fc22649a58d7be46e14f74e24933376"
+git-tree-sha1 = "17e616098302b73af5e6bcf085af0778928c8d0d"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -295,11 +295,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "dba02b4d630888cd0a93b6a4d136ba56b166f496e1efebe3674e9d015abebbf5"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "02c012d4a86852597d4fa7a73a71c371bf176e201fd90f7bc9c61f7f123e78f8"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.i686-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
-git-tree-sha1 = "a7d8688e5071ee132ecfe9a0159a9572b49406f0"
+git-tree-sha1 = "e53a122d292fee7b888b82bfcaac4b8d6310b27f"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -307,11 +307,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "205174c139c81f2f80fce3e4180071f07260bdb8c737213653081a67fb829e93"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "e43495f07ef6d7145159417decbb7cd75f9e5bb18507ee0289b9ca0f1dc56400"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "powerpc64le"
-git-tree-sha1 = "ed3a507f3a0ceae2af569115a46d75aee9460bfb"
+git-tree-sha1 = "a40dd64d1a32a3057f3e92d25bcec35ff329328e"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -319,11 +319,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "0f5189ab5d3dc49448245a571d60242629345ac53deeda03eebe140a89b2118d"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.powerpc64le-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "7fbf04a3bd3c0c1b064b3e90ae276696d54ac88fb71790ab73a12827f2764eb0"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.powerpc64le-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "powerpc64le"
-git-tree-sha1 = "ee24b0bb60aeae348aeef1648f65b22049d940e6"
+git-tree-sha1 = "6d149c20efca90a0840cb54ec70b0ec1781a6bdb"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -331,11 +331,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "0d1155bdb49d8c620086954cb3a5c1db139610944256c23765b942cdc0a6a130"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.powerpc64le-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "43de0d16aaed3a84a869feb65dacbe4f0a55d86142bfeb48aa102cf862b69bc1"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.powerpc64le-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "powerpc64le"
-git-tree-sha1 = "50151420b268c3f965590073e18fd4cde99e5e39"
+git-tree-sha1 = "f2d8dd7e8bb8ced4e6bf3cffcb49b9a580110e92"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -343,44 +343,44 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "77f346f4e7476ff0c41419a3d7857d5129153ed31ffa00109c4f90f93cf85e8e"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "7e83a9ebf4fbbc39c6f1cf43f867a8b23f47f8dc593746160acf4b559f5d40c3"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "c46cee1eee9a58f9b23cb4adc87785a68d0ff96b"
+git-tree-sha1 = "e4c84ac588e0d0c105860ba4499d455d3ae453d7"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MPICH.download]]
-    sha256 = "8a91b144eebb7ce6f48e0e007cb212fb03a4ee063f2fb41d508ec3474f14f686"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "fdc9b9ae77c0018182cf3b86fb2a6ea32d813646395b735df949a1111321ca7e"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-apple-darwin-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "e406af848b69d2975c6aec7fc1d2ce35383ba375"
+git-tree-sha1 = "7cc5380b13107cedbfa5b45d4c371c71a3f00f96"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MPICH.download]]
-    sha256 = "bd2ea40feeb70a798b86229cd3d9e13c64055ba4547830fa7b82a75d15a3f091"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "f8ee82edf151f12c45d1ef5bd88b6d97c531bd7e0dd569e3b5f8f4460367b856"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-apple-darwin-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "0925423b88d388b6ffdbdfff81aedcb7e17c534e"
+git-tree-sha1 = "79ba182cdd0c102a75b9dd92d70cd6852df8f0bf"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "macos"
 
     [[MPICH.download]]
-    sha256 = "c5c322daa71883ca9e9fb2a5181359922647f54321e77a0a7068ae49c2b2f11d"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "0812bdea275e5c7f6a9e1e3ee3fff1e212fd61ece3e62dc838a1380ab0fa0ce2"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "e73d010ddde9daeb34bcbc7c980f7b8af9746369"
+git-tree-sha1 = "06afed698f26c918b42b294822b800ef5136256c"
 lazy = true
 libc = "glibc"
 libgfortran_version = "3.0.0"
@@ -388,11 +388,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "9518a771fda648b7540c49da07183024bff2be0239fc4aa184441166d1671ea2"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "64255eb604f1329e363e9ce801c26449d6588aefb0f1f40a87f58d626983dc71"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-linux-gnu-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "c9d9c823b21dc51ba2fe59a298cde807c8d7ba70"
+git-tree-sha1 = "6c3365561ebae8bbc83c1a3ca078ee084ae4a945"
 lazy = true
 libc = "glibc"
 libgfortran_version = "4.0.0"
@@ -400,11 +400,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "beba07b1c2603420650e609167be3de6a4ce16d86b3c4a2bc956d8357baf1074"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "d6209436943c08349463db7181467f82f127e4341342fcd3bf1d30b407a0feb3"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-linux-gnu-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "37295ba17b3932e3ee21d502de5de96700c00b94"
+git-tree-sha1 = "69656c7b06da50dba7bdeef69f0ac06e478ac05a"
 lazy = true
 libc = "glibc"
 libgfortran_version = "5.0.0"
@@ -412,11 +412,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "e6eb648d9adec8026e79bdbe50f265a5b0d7b3b341ecbe36c90da0fe64a954be"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "01e46b1b0fb6c369a736940e6b7d362dd9422e165e3ef0004b50a04e6fc9fd3f"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "8d22a7637285e2dce2b62e3853a985b8eb90db32"
+git-tree-sha1 = "bf8d61d9ed5918b3b41d2d093f3cd388ac8f8f62"
 lazy = true
 libc = "musl"
 libgfortran_version = "3.0.0"
@@ -424,11 +424,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "a05f00314681925d9c50c8a8a886f62143f9a02cf969eded59c1b0d7caccb8d3"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "1f87bfe5cca42df48dd300395877fcc5b3e7a909bcf63cb08facad1256af4f4e"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-linux-musl-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "063ce04e8daa2a34d63b8fad5fdb984f998295cd"
+git-tree-sha1 = "5c4bcaa73db00bb47e351452109180688353c45a"
 lazy = true
 libc = "musl"
 libgfortran_version = "4.0.0"
@@ -436,11 +436,11 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "8ea21482df9f0ec64b4250b2da9a449947397aafcecbb7f6a3c3c62ea4cb0a4a"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "af67e0b813db87a6756f33623862dc336eed268d0367fee53d0806aaab0e1498"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-linux-musl-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "3165a63e5bdb309eeb66d0571377a75c17385bbb"
+git-tree-sha1 = "40dab96e57eabd31b8fcfedca90cbfb8d976a40f"
 lazy = true
 libc = "musl"
 libgfortran_version = "5.0.0"
@@ -448,38 +448,38 @@ mpi = "mpich"
 os = "linux"
 
     [[MPICH.download]]
-    sha256 = "937a443aa5a6efde20ef7e7518750c22788b07d60554d08c36c056fe649bab73"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "720bcaa6c916722ec46fa0e27387e623fa48116ebc0c597864c0ad391e614c66"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "e8d030b56db81a721d3a2403ae7c0937d1c8c5e7"
+git-tree-sha1 = "dff7f2e55e5104892d31118928c0c01d0272a213"
 lazy = true
 libgfortran_version = "3.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[MPICH.download]]
-    sha256 = "2cfc4c57bd62b4a6680ae8b5c1332e2ff24c7bb3146103f1a62c1a5491c2d2fa"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
+    sha256 = "01d1b77ca51a29278cdc9ab7d03e89a9e19235770c8e16acc0d2932e7e4a26dc"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-unknown-freebsd-libgfortran3-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "6991aea80ffea066d0086de6cc9704c4ae16d105"
+git-tree-sha1 = "54ef9ec05c305b9a32fc4daf054bee0e9e86876b"
 lazy = true
 libgfortran_version = "4.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[MPICH.download]]
-    sha256 = "89cafb89dd4c88d2249bd3423cde1e2666db1dab4d1571b10d962aa02924c627"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
+    sha256 = "6ca4db8361cc06129c1980a63d94618a8516ed6b8e634592759f86b952d8f976"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-unknown-freebsd-libgfortran4-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
-git-tree-sha1 = "11e5f45a4a5eeb259633b053217dea8dfa5acf61"
+git-tree-sha1 = "e1854ab82d223dc82238dc23be0c927332dcb7aa"
 lazy = true
 libgfortran_version = "5.0.0"
 mpi = "mpich"
 os = "freebsd"
 
     [[MPICH.download]]
-    sha256 = "fb403e9b9854a020c122b1d7431b68aff598568325f725f2cc6c176fefe0ee9a"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.1+1/MPICH.v4.1.1.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    sha256 = "fda9a13bf003a264e293e4592e14dcca0b094245746a98a5043d21219a3162ad"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v4.1.2+0/MPICH.v4.1.2.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
