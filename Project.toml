@@ -1,6 +1,6 @@
 name = "MPICH_jll"
 uuid = "7cb0a576-ebde-5e09-9194-50597f1243b4"
-version = "4.1.2+0"
+version = "4.1.2+1"
 
 [deps]
 MPIPreferences = "3da0fdf6-3ccc-4f1b-acd9-58baa6c99267"
@@ -15,3 +15,7 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 JLLWrappers = "1.4.0"
 julia = "1.6"
 MPIPreferences = "0.1"
+LazyArtifacts = "1"
+Libdl = "1"
+TOML = "1"
+Artifacts = "1"
