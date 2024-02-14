@@ -2,13 +2,14 @@
 export libmpi, libmpicxx, libmpifort, mpiexec
 
 using CompilerSupportLibraries_jll
+using Hwloc_jll
 JLLWrappers.@generate_wrapper_header("MPICH")
 JLLWrappers.@declare_library_product(libmpi, "@rpath/libmpi.12.dylib")
 JLLWrappers.@declare_library_product(libmpicxx, "@rpath/libmpicxx.12.dylib")
 JLLWrappers.@declare_library_product(libmpifort, "@rpath/libmpifort.12.dylib")
 JLLWrappers.@declare_executable_product(mpiexec)
 function __init__()
-    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, MPIPreferences)
+    JLLWrappers.@generate_init_header(CompilerSupportLibraries_jll, Hwloc_jll, MPIPreferences)
     JLLWrappers.@init_library_product(
         libmpi,
         "lib/libmpi.12.dylib",
