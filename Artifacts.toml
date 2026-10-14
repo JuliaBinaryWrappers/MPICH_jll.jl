@@ -7,7 +7,7 @@ os = "macos"
 
     [[MPICH.download]]
     sha256 = "d19955295a039d7826756cd813c31d04f4efdbd9d3c446474bf8b8a45bd1ad4a"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
 git-tree-sha1 = "7d0209914e8d9a8d2dc9ae3aea96f75ec9d02090"
@@ -18,7 +18,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "8f188185a794487abac6fb8a0fd09d5dc898efd1ea0baabf420faa2f94ef01d5"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
 git-tree-sha1 = "c4df00db0fbc25dd79db1cc4e5842c65a34d3f68"
@@ -29,7 +29,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "66378a21605d24bfbcaa3c397d30c1e22627e80090343b109c74a1ea1d570be4"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "aarch64"
 git-tree-sha1 = "de43c839f9d1f46d9cec5f75255ce924779a3bbe"
@@ -39,7 +39,7 @@ os = "freebsd"
 
     [[MPICH.download]]
     sha256 = "8a9d4f02da60e2bef801e2b15a721866553eb0e0010f55226ed93e9f7cff1b6a"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.aarch64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.aarch64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -51,7 +51,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "383a5fbabf9484f94adbbe3d3b7c66c6661e36e8858b93b0c119bfb4fc4386eb"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.armv6l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -63,7 +63,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "dcb3f6cc3da7ad1ead7c9664aff6c54193df8f93f213b180efd5cab7a2201268"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.armv6l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -75,7 +75,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "a2d7ca3ffde08df2d4d37ba58c7e37219be75be68c6920cfa15c6e76a7afe5d1"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.armv7l-linux-gnueabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -87,7 +87,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "60726f2945bb414b18d1a2a34cdede61466c971d17cb9e73b0b0538f8d842386"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.armv7l-linux-musleabihf-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
 git-tree-sha1 = "3d004bd58f8b31b3ed199f6f460ec46098a94852"
@@ -98,7 +98,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "95e895ff6ce655767f8cf8b7be2309af384f87f88a27115d93068b3e00a8684d"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.i686-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "i686"
 git-tree-sha1 = "618d7f44832b8c604ec38f9729ebe763553188ee"
@@ -109,7 +109,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "2d99e1adc8a8989e650bc412e09fce8c430aeb19f93f896d87a6680160853cb7"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.i686-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "powerpc64le"
 git-tree-sha1 = "e54df4e0f941b886b33122aa86baa974cd8e5306"
@@ -120,7 +120,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "f408d338169edf0b6aeaf21539a2bfbfd51b74d770609f09d3aefcbb67501648"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "riscv64"
 git-tree-sha1 = "d9d92ead5af02867eaa61d1970811e61203725f2"
@@ -131,7 +131,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "b3f74eedb0292d5cd2a53c9c15c781d0b2a7903e245d04228442a98a6adb3a42"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.riscv64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.riscv64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
 git-tree-sha1 = "5b1058379e01bd330afe91cfc431ac613c8d7c9f"
@@ -141,7 +141,7 @@ os = "macos"
 
     [[MPICH.download]]
     sha256 = "92f6dc436fc66a65befbf2d58e66cdde2c33e95bf4dd35632df4b711c6066ea0"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
 git-tree-sha1 = "1a3503e280039bd45ad4bfc9f5343a76c0574d67"
@@ -152,7 +152,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "4baecc2b57b148abd424b868718d302fb5be5d9e6b8c907ccffda8700fe7cacd"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
 git-tree-sha1 = "161a8a9daaeef1adc78fbf32cf3fc3b3dcce73fb"
@@ -163,7 +163,7 @@ os = "linux"
 
     [[MPICH.download]]
     sha256 = "2bdc94cf05c1edbff80e0cadca3f253ae556751449d5118b61c308211d256b25"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
 [[MPICH]]
 arch = "x86_64"
 git-tree-sha1 = "055bbd88d654ef8bac83b9749eedce580d620bca"
@@ -173,4 +173,4 @@ os = "freebsd"
 
     [[MPICH.download]]
     sha256 = "bea0a40fd97edfec2e6555da957b964101c4e052c117d3b0d8ed91e5675f7196"
-    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+0/MPICH.v5.0.2.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/MPICH_jll.jl/releases/download/MPICH-v5.0.2+1/MPICH.v5.0.2.x86_64-unknown-freebsd-libgfortran5-mpi+mpich.tar.gz"
