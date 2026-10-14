@@ -25,7 +25,7 @@ function __init__()
     JLLWrappers.@init_library_product(
         libmpifort,
         "lib/libmpifort.so",
-        RTLD_LAZY | RTLD_DEEPBIND | RTLD_GLOBAL,
+        RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_executable_product(
